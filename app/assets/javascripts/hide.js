@@ -1,3 +1,4 @@
-function hideWhenClicked(el) {
-  el.style.visibility = 'hidden';
+document.getElementById("hide_this").addEventListener("click", hideWhenClicked);
+
+function hideWhenClicked() {
 }
