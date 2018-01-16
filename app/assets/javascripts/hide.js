@@ -1,3 +1,3 @@
-function hideWhenClicked() {
-  debugger;
+function hideWhenClicked(el) {
+  el.style.visibility = 'hidden';
 }
