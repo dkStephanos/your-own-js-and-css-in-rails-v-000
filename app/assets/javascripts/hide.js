@@ -1,0 +1,3 @@
+function hideWhenClicked() {
+  binding.pry
+}
