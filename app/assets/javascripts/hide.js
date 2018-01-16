@@ -1,3 +1,3 @@
 function hideWhenClicked() {
-  binding.pry
+  debugger;
 }
